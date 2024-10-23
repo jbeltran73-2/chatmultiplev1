@@ -155,7 +155,7 @@ function App() {
           fontWeight: '600',
           textAlign: 'center',
           margin: '0'
-        }}>Chat UI</h1>
+        }}>Chat Multiple</h1>
         <div style={{
           display: 'flex',
           justifyContent: 'space-around',
